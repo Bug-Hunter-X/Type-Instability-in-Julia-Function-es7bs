@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Julia: type instability. The `myfunction` initially struggles with handling both positive and negative integers, causing performance issues. The solution showcases how to improve the function using type annotations to promote stability.
